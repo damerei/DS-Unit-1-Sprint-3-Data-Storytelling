@@ -2,7 +2,7 @@
 
 ## You
 
-My new portfolio site is here: damerei.github.io
+My new portfolio site is here: https://damerei.github.io
 
 
 I am looking primarily at two main possibilities for data storytelling, both linked to quantitative financial approaches. 
