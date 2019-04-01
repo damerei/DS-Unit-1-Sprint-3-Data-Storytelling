@@ -2,62 +2,14 @@
 
 ## You
 
-What do you care about?
+My new portfolio site is here: https://github.com/damerei/damerei.github.io
 
 
-What do you know about?
+I am looking primarily at two main possibilities for data storytelling, both linked to quantitative financial approaches. 
+
+The first, which would be more standard, would be an exploration of the unusually low volatility that has pervaded our market environment recently. This would be relatively easy to do: most of the relevant data is available through the quandl API and the Federal Reserve's releases. Natural thing would be to study the relationship between volatility of bond prices and volatility of the S&P, or certain subsectors of the S&P, or perhaps the relationship to the prices of gold and cryptocurencies.  
 
 
-What decisions do you face?
+The second is considerably more involved. It would involve scraping websites that display inventory, and analyzing inventory to get a sense of a company's turnover and therefore revenue. There are many possibilities here: Tesla, avnet or arrow for semiconductor parts, home builder inventories, etc. We could use that to predict either company performance or to find an internal story for how the data is evolving. 
 
-
-## Seven templates
-
-Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explains the seven templates from Priceonomics.
-
-Can you apply the templates to your topics? 
-
-1. Geographic Variation
-
-
-2. Trend related to the news
-
-
-3. Who does that?
-
-
-4. Answering a question people care about
-
-
-5. Valuable to businesses
-
-
-6. What's the most popular?
-
-
-7. Cost/Money rankings
-
-
-## Misconceptions
-
-What misconceptions do people have about your topic?
-
-
-## Examples
-
-What data storytelling example inspires you?
-
-
-Could you do a new hypothesis, for the same question?
-
-
-Could you do a new question, for the same topic?
-
-
-Could you do a new topic, with the same "style"?
-
-
-## Data
-
-Where could you search for data about your topic?
-
+Tesla is a nice example in the latter case, you could correlate Tesla inventory turnover with Musk tweets. 
